@@ -25,14 +25,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
-
 
 ### 📊 GitHub Stats
 
@@ -43,13 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanakilari&layout=compact&theme=radical" width="48%" />
 </p>
 
-
 ---
 
 ### 📫 Connect with Me
 
 - ✉️ Email: [itsmebhavanakilari@gmail.com](mailto:itsmebhavanakilari@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-kilari)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-kilari)  
+- 💻 [GitHub](https://github.com/bhavanakilari)
 
 ---
 
