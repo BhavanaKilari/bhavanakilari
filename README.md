@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bhavana!
 
-<!--
-**BhavanaKilari/bhavanakilari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | 💻 Full Stack & ML Enthusiast | 🌱 Always Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects I’ve Built
+- 🎶 **Music Library Management System**  
+  A Spotify-style web app with user/admin login, MP3 upload, audio streaming, favorites, and dark-themed Bootstrap UI.
+
+- 🩺 **Diabetes Prediction Web App**  
+  A user-friendly ML-based Streamlit app using a Decision Tree classifier to predict diabetes based on basic symptoms.
+
+---
+
+### 🔧 Tech Stack
+- **Languages**: Python, PHP, Java, SQL, HTML/CSS
+- **Tools**: Streamlit, Bootstrap, MySQL, Git, XAMPP
+- **Concepts**: Web Development, Machine Learning, DSA, OOP
+
+---
+
+### 📫 Connect with Me
+- ✉️ Email: kilaribhavana@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-kilari)
+
+---
+
+### ⚡ Fun Fact
+> I love turning real-life problems into working projects that people can interact with and use.
+
+Thanks for visiting my profile! ⭐
