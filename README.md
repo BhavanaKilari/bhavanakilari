@@ -33,13 +33,16 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavanakilari&show_icons=true&theme=radical" alt="Bhavana's GitHub stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanakilari&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavanakilari&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavanakilari&theme=radical" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavanakilari&layout=compact&theme=radical" width="48%" />
 </p>
+
 
 ---
 
