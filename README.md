@@ -21,7 +21,7 @@
 ---
 
 ### 📫 Connect with Me
-- ✉️ Email: kilaribhavana@gmail.com  
+- ✉️ Email: itsmebhavanakilari@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-kilari)
 
 ---
