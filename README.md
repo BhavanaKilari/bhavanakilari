@@ -45,9 +45,6 @@
 
 ---
 
-### 👁️ Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=bhavanakilari&color=blue)
 
 ---
 
