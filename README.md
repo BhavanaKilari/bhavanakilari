@@ -22,7 +22,7 @@
 
 ### 🚀 Tech Stack & Tools
 
-Python • SQL • Excel • Power BI • Pandas • NumPy • MySQL • Streamlit
+Python • SQL • Excel • Power BI • Pandas • NumPy • MySQL • STREAMLIT
 ---
 
 
