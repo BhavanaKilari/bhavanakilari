@@ -24,7 +24,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-777BB4?style=flat&logo=php&logoColor=white)
-![EXCELhttps://img.shields.io/badge/-EXCEL-007396?style=flat&logo=java&logoColor=white)
+![EXCEL](https://img.shields.io/badge/-EXCEL-007396?style=flat&logo=java&logoColor=white)
 ![POWERBI](https://img.shields.io/badge/-POWERBI-E34F26?style=flat&logo=html5&logoColor=white)
 ![PANDAS](https://img.shields.io/badge/-PANDAS-1572B6?style=flat&logo=css3&logoColor=white)
 ![NUMPY](https://img.shields.io/badge/-NUMPY-563D7C?style=flat&logo=bootstrap&logoColor=white)
