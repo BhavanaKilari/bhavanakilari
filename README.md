@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm Bhavana!
 
-🎓 Computer Science Engineering Student | 💻 Full Stack & ML Enthusiast | 🌱 Always Learning
+🎓 Computer Science Engineering Graduate(2026) | 💻 Data Analytics & ML Enthusiast | 🌱 Always Learning
 
 ---
 
@@ -40,7 +40,7 @@
 ### 📫 Connect with Me
 
 - ✉️ Email: [itsmebhavanakilari@gmail.com](mailto:itsmebhavanakilari@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bhavana-kilari)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kilari-bhavana-6a80a1414/)
 - 💻 [GitHub](https://github.com/bhavanakilari)
 
 ---
